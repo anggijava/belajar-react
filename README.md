@@ -1,13 +1,8 @@
-# belajar-react di Edspert.id
-Tugas akhir membuat aplikasi toko online menggunakan react JS
+# React + Vite
 
-Hal yang saya pelajari pada bootcamp
-1. Pengenalan state, props, dan component
-2. Pengenalan JSX dan aturan-aturannya
-3. React development menggunakan CRA dan Vite
-4. Hook useState dan useEffect
-5. Penggunaan tailwind react dan bootstarp react
-6. CRUD & local storage (tidak digunakan pada tugas akhir ini)
-7. RESTful
-8. React routing
-9. Redux
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
